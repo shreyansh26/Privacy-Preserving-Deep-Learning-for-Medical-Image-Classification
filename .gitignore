@@ -7,3 +7,4 @@ privateml
 chest_xray
 *.hdf5
 *.zip
+*.pkl
