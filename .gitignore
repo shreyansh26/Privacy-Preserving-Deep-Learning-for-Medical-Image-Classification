@@ -5,3 +5,4 @@ privacy
 privateml
 *.h5
 chest_xray
+*.hdf5
